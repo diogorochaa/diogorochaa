@@ -1,4 +1,4 @@
-## Olá, eu sou o Diogo Rocha, desenvolvedor!
+## Hi, I'm Diogo Rocha, developer!!
 
 <div align="center">
   <a href="https://github.com/DiogoRocha10">
