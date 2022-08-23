@@ -8,8 +8,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=DiogoRocha10&show_icons=true&theme=highcontrast" alt="Diogo Rocha's stats"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRocha10&layout=compact&theme=highcontrast" alt="Diogo Rocha's most languages"/>
+<img width="450em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRocha10&show_icons=true&theme=highcontrast" alt="Diogo Rocha's stats"/>
+<img width="350em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRocha10&layout=compact&theme=highcontrast" alt="Diogo Rocha's most languages"/>
 </p>
 <br><br>
 
