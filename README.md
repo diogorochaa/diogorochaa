@@ -2,7 +2,7 @@
 
 -  Software Engineer | ReactJs | NextJs | Javascript | Typescript 
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -10,7 +10,7 @@
 <img width="450em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRocha10&show_icons=true&theme=highcontrast" alt="Diogo Rocha's stats"/>
 <img width="350em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRocha10&layout=compact&theme=highcontrast" alt="Diogo Rocha's most languages"/>
 </p>
-<br><br>
+<br>
 
 ## 👨‍🦲 &nbsp;Contacts
 
@@ -25,7 +25,7 @@
   <img align="center" src="https://img.shields.io/badge/-Whatsapp-2DB540?style=for-the-badge&labelColor=whatsapp&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
 </a>
 </p>
-<br><br>
+<br>
 
 ## 🛠️ &nbsp;Experience
 
@@ -40,7 +40,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-<br><br>
+<br>
 
 ## 📚 &nbsp;Studying
 
@@ -52,7 +52,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=for-the-badge&logoColor=fff&logo=graphql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<br><br>
+<br>
 
 <div>
   <h1> Snake Animation </h1>
