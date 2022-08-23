@@ -2,7 +2,6 @@
 
 -  Software Engineer | ReactJs | NextJs | Javascript | Typescript 
 
--  I’m currently working at [Agi](https://agibank.com.br/)
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
