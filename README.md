@@ -52,11 +52,11 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E034A7?style=for-the-badge&logoColor=fff&logo=graphql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<br>
+<br><br>
 
 <div>
   <h1> Snake Animation </h1>
 
-  ![Snake animation](https://github.com/DiogoRocha10/diogorochaa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/diogorochaa/diogorochaa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
