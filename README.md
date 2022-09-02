@@ -7,8 +7,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="450em"  src="https://github-readme-stats.vercel.app/api?username=DiogoRocha10&show_icons=true&theme=highcontrast" alt="Diogo Rocha's stats"/>
-<img width="350em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoRocha10&layout=compact&theme=highcontrast" alt="Diogo Rocha's most languages"/>
+<img width="450em"  src="https://github-readme-stats.vercel.app/api?username=diogorochaa&show_icons=true&theme=highcontrast" alt="Diogo Rocha's stats"/>
+<img width="350em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorochaa&layout=compact&theme=highcontrast" alt="Diogo Rocha's most languages"/>
 </p>
 <br>
 
@@ -57,6 +57,6 @@
 <div>
   <h1> Snake Animation </h1>
 
-  ![Snake animation](https://github.com/DiogoRocha10/DiogoRocha10/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DiogoRocha10/diogorochaa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
