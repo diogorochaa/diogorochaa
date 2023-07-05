@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Diogo Rocha!</h1>
 
--  Software Engineer | ReactJs | NextJs | Javascript | Typescript 
+-  Software Engineer | ReactJs | Node | Typescript 
 
 <br>
 
@@ -28,12 +28,66 @@
 <br>
 
 ## 🛠️ &nbsp;Experience
-![Experiencia](https://devicons.dev.br/icons?icon=JavaScript,TailwindCSS,TypeScript,NextJS,NodeJS,StyledComponents,Git,Github,Vite,VSCode,Linux,React,GitLab&theme=dark)
+
+<div>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JS"/>
+</a>
+<a href="https://tailwindcss.com/docs/installation" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Tailwind-D14836?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+</a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
+</a>
+<a href="https://styled-components.com/docs" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/StyledComponents-D14836?style=for-the-badge&logo=styledcomponents&logoColor=white" alt="Styled"/>
+</a>
+<a href="https://vitejs.dev/guide/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Vite-D14836?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</a>
+<a href="https://react.dev/learn" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+</a>
+<a href="https://nextjs.org/docs" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next&logoColor=white" alt="Next"/>
+</a>
+<a href="https://nodejs.org/en/docs" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node&logoColor=white" alt="Node"/>
+</a>
+
+  
+</div>
+
+
 
 <br>
 
 ## 📚 &nbsp;Studying
-![Estudando](https://devicons.dev.br/icons?icon=Astro,RemiX,Prisma,Firebase,Jest,GraphQL,MongoDB,Docker&theme=dark)
+
+<div>
+<a href="https://docs.astro.build/en/getting-started/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro&logoColor=white" alt="astro"/>
+</a>
+<a href="https://remix.run/docs/en/1.18.1" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Remix-gray?style=for-the-badge&logo=remix&logoColor=white" alt="remix"/>
+</a>
+<a href="https://www.prisma.io/docs/getting-started/quickstart" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Prisma-blue?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+</a>
+<a href="https://jestjs.io/pt-BR/docs/getting-started" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Jest-D14836?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+</a>
+<a href="https://graphql.org/learn/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/GraphQl-D14836?style=for-the-badge&logo=graphql&logoColor=white" alt="GQL"/>
+</a>
+<a href="https://docs.docker.com/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</a>
+<a href="https://docs.oracle.com/en/java" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/Java-white?style=for-the-badge&logo=java&logoColor=black" alt="Java"/>
+</a>
+
+</div>
 <br><br>
 
 <div>
