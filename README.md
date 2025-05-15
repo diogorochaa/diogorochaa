@@ -1,6 +1,7 @@
 <h1 align="left">Hi, I'm Diogo Rocha!</h1>
 
--  Software Engineer | ReactJs | Node | Typescript 
+-  Software Engineer | ReactJs | Node | Typescript
+-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br>
 
