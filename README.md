@@ -1,36 +1,36 @@
-<h1 align="center">👋 Hi, I'm Diogo Rocha</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Diogo+Rocha;Fullstack+Engineer;I+write+about+code+and+architecture;Building+Scalable+Systems+🚀" />
+</h1>
 
 <p align="center">
-  <strong>Fullstack Developer</strong> focused on building scalable, high-performance applications.
+  <a href="https://blog-diogodev.vercel.app">
+    <img src="https://img.shields.io/badge/My_Blog-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=diogorochaa&style=for-the-badge&color=blue" />
 </p>
 
-<p align="center">
-  🚀 Passionate about clean architecture, performance and great user experiences
-</p>
-
----
-
-## 🚀 About Me
-
-- 💻 Fullstack Developer (React, Next.js, Node.js)
-- 🧠 Focused on **scalability, clean architecture and testing**
-- ⚡ Building side projects & sharing knowledge on my blog  
-- 📍 Brazil
-
----
 
 ## 📊 GitHub Analytics
 
 <p align="center">
- 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diogorochaa&theme=tokyonight&hide_border=true" />
 </p>
 
 
+## 🧠 Who Am I
 
----
+```ts
+const diogo = {
+  role: "Fullstack Engineer",
+  focus: ["Scalability", "Clean Architecture", "Performance"],
+  stack: ["React", "Next.js", "Node.js", "NestJS"],
+  content: "I write about real-world engineering decisions",
+};
+```
+</br>
 
 ## 🧠 Tech Stack
+</br>
 
 ### 💻 Frontend
 <p>
@@ -47,7 +47,8 @@
 <img src="https://skillicons.dev/icons?i=postgres,docker" />
 </p>
 
----
+</br>
+
 
 ## 📚 Currently Learning
 
@@ -55,7 +56,7 @@
 <img src="https://skillicons.dev/icons?i=astro,graphql,java" />
 </p>
 
----
+</br>
 
 ## 🌐 Connect with me
 
@@ -71,7 +72,8 @@
   </a>
 </p>
 
----
+
+</br>
 
 ## 🐍 Contribution Snake
 
@@ -79,7 +81,7 @@
   <img src="https://github.com/diogorochaa/diogorochaa/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+</br>
 
 ## ⚡ Fun Fact
 
