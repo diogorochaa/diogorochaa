@@ -22,13 +22,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=diogorochaa&show_icons=true&theme=tokyonight&hide_border=true" />
+ 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=diogorochaa&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorochaa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
@@ -55,16 +53,6 @@
 
 <p>
 <img src="https://skillicons.dev/icons?i=astro,graphql,java" />
-</p>
-
----
-
-## 🔥 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/diogorochaa/fincheck">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=diogorochaa&repo=fincheck&theme=tokyonight&hide_border=true" />
-  </a>
 </p>
 
 ---
