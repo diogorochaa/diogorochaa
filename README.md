@@ -34,17 +34,17 @@ const diogo = {
 
 ### 💻 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,angular,vue,tailwind" />
 </p>
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,prisma,sequelize" />
 </p>
 
 ### 🛢️ Database & Infra
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,docker" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,mysql,mongo,dynamodb,aws,azure" />
 </p>
 
 </br>
@@ -53,7 +53,7 @@ const diogo = {
 ## 📚 Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=astro,graphql,java" />
+<img src="https://skillicons.dev/icons?i=astro,graphql,java,go" />
 </p>
 
 </br>
